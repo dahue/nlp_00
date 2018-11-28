@@ -6,12 +6,14 @@ verify_ssl = true
 [dev-packages]
 wordcloud = "*"
 matplotlib = "*"
+beautifulsoup4 = "*"
 
 [packages]
 numpy = "*"
 pandas = "*"
 scikit-learn = "*"
 jupyter = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.6"
